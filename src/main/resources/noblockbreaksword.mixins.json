@@ -3,7 +3,7 @@
 	"package": "com.nbbs.aboodkt.mixin",
 	"compatibilityLevel": "JAVA_17",
 	"mixins": [
-		"ExampleMixin"
+		"BlockBreakMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
