@@ -2,7 +2,7 @@
   "required": true,
   "package": "com.nbbs.aboodkt.mixin",
   "compatibilityLevel": "JAVA_17",
-  "mixins": [
+  "client": [
     "BlockBreakMixin"
   ],
   "injectors": {
